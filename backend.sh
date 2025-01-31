@@ -1,8 +1,7 @@
 #!/bin/bash
-
-RESOURCE_GROUP_NAME=rg-terraform-demo-tfstate
+RESOURCE_GROUP_NAME=rg-staticsite-tfstate-demo
 RESOURCE_GROUP_LOCATION=uksouth
-STORAGE_ACCOUNT_NAME=sademotfstate280125
+STORAGE_ACCOUNT_NAME=sastaticsitetfstatedemo
 CONTAINER_NAME=tfstate
 
 # Create resource group
